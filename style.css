@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Balsamiq Sans';
+    src: url(BalsamiqSans-Bold.ttf);
+}
+
+#cím{
+    text-align: center;
+    color:black; 
+    font-family: 'Balsamiq Sans';
+}
+
+#alcím{
+    text-align: center;
+    color: black;
+    font-family: "Balsamiq Sans";
+}
+
+#szöveg{
+    text-align: center;
+    color: black;
+    font-family: "Balsamiq Sans";
+}
+
