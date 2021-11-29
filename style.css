@@ -189,7 +189,7 @@ span:hover{
 }
 
 .tablazat{
-    margin-left: 600px;
+    margin-left: 500px;
     margin-right: 500px;
     margin-top: 300px;
     background-color: lightgrey;
@@ -197,7 +197,7 @@ span:hover{
     text-align: center;
 }
 table,th {
-    border: 1px solid black;
+    border: 3px solid black;
     padding: 60px;
   }
   table {
